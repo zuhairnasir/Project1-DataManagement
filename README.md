@@ -39,4 +39,4 @@ By connecting Hive queries with Python analysis in Jupyter Notebook, we provide 
    Compare food availability against demographic changes.
 
 ## 🧑‍💻 Author
-Created with ❤️ by Zuhair Nasir
+Created by Zuhair Nasir
