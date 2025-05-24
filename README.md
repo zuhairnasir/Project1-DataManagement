@@ -37,19 +37,3 @@ By connecting Hive queries with Python analysis in Jupyter Notebook, we provide 
 
 5. 🌎 **Food Supply vs Population Growth**  
    Compare food availability against demographic changes.
-
----
-
-## 📊 Sample Visualizations
-
-![Sample Visualization](./images/sample_food_supply_growth.png)
-
----
-
-## 📥 How to Use
-
-1. Clone this repo:  
-   ```bash
-   git clone https://github.com/yourusername/food-supply-analysis.git
-   cd food-supply-analysis
-
