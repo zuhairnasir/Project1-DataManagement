@@ -6,7 +6,7 @@ Welcome to this exciting project that dives deep into the global food supply lan
 
 ## 🚀 Project Overview
 
-As the global population surges and climate patterns shift, understanding food availability worldwide is critical. This project leverages **FAO Food Balance Sheets** data combined with Hive-powered analytics to uncover trends, disparities, and growth patterns in food supply at the global scale. 🌾🍅🥕
+Food availability is a cornerstone of global food security and human well-being. It encompasses not just the quantity of food produced but also its nutritional quality and equitable distribution. In today’s data-driven world, harnessing large-scale datasets such as the FAO Food Balance Sheets enables researchers and policymakers to uncover hidden trends, disparities, and opportunities in food supply systems worldwide. This project applies advanced big data analytics within a Hive environment, interfaced via Python in Jupyter Notebook, to comprehensively explore global food availability from 2010 to 2022. The insights generated aim to support evidence-based interventions to reduce hunger, improve nutrition, and promote sustainable agriculture.
 
 By connecting Hive queries with Python analysis in Jupyter Notebook, we provide actionable insights for policymakers, researchers, and food security advocates. 🎯🤝
 
