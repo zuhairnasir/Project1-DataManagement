@@ -1,4 +1,4 @@
-# 🍽️🌍 Big Data Analysis of Global Food Availability Using FAO Food Balance Sheets in Hive
+# 📊 Big Data Analysis of Global Food Availability Using FAO Food Balance Sheets in Hive 🍽️🌍
 
 Welcome to this exciting project that dives deep into the global food supply landscape through powerful big data analytics using Apache Hive and Python! 🚀📊
 
